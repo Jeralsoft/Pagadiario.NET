@@ -1,0 +1,108 @@
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\bin\Debug\Pagadiario.NET.exe
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\bin\Debug\Pagadiario.NET.pdb
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmPrestamo.resources
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.exe
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.pdb
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobrador.resources
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmAbono.resources
+C:\Users\GESTIONLB\Desktop\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.exe
+C:\Users\GESTIONLB\Desktop\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.pdb
+C:\Users\GESTIONLB\Desktop\Pagadiario.NET\Pagadiario.NET\bin\Debug\Pagadiario.NET.exe
+C:\Users\GESTIONLB\Desktop\Pagadiario.NET\Pagadiario.NET\bin\Debug\Pagadiario.NET.pdb
+C:\Users\GESTIONLB\Desktop\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GESTIONLB\Desktop\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmAbono.resources
+C:\Users\GESTIONLB\Desktop\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCliente.resources
+C:\Users\GESTIONLB\Desktop\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobrador.resources
+C:\Users\GESTIONLB\Desktop\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmPrestamo.resources
+C:\Users\GESTIONLB\Desktop\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.Properties.Resources.resources
+C:\Users\GESTIONLB\Desktop\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GESTIONLB\Desktop\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\Administrador\Escritorio\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.csproj.ResolveComReference.cache
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Interop.VBIDE.dll
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.csproj.ResolveComReference.cache
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.exe
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.pdb
+E:\Pagadiario.NET\Pagadiario.NET\bin\Debug\Pagadiario.NET.exe
+E:\Pagadiario.NET\Pagadiario.NET\bin\Debug\Pagadiario.NET.pdb
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCliente.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobrador.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmPrestamo.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.Properties.Resources.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmMenu.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmClienteBuscar.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobradorBuscar.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmAbono1.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmEntrada.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmLogin.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmClienteActualizar.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobradorActualizar.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmPrestamoActualizar.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmPrincipal.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobroDiario.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmBalanceDiario.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmBalanceMensual.resources
+E:\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmClientesAlDia.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.csproj.ResolveComReference.cache
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.exe
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.pdb
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\bin\Debug\Pagadiario.NET.exe
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\bin\Debug\Pagadiario.NET.pdb
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.csprojResolveAssemblyReference.cache
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmAbono1.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmBalanceDiario.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmBalanceMensual.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmClienteActualizar.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmClientesAlDia.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobradorActualizar.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCliente.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmClienteBuscar.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobrador.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobradorBuscar.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobroDiario.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmPrincipal.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmEntrada.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmLogin.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmMenu.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmPrestamo.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmPrestamoActualizar.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.Properties.Resources.resources
+C:\Users\js\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.csproj.GenerateResource.Cache
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.csproj.ResolveComReference.cache
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.exe
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.pdb
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\bin\Debug\Pagadiario.NET.exe
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\bin\Debug\Pagadiario.NET.pdb
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.csprojResolveAssemblyReference.cache
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmAbono1.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmBalanceDiario.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmBalanceMensual.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmClienteActualizar.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmClientesAlDia.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobradorActualizar.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCliente.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmClienteBuscar.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobrador.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobradorBuscar.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmCobroDiario.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmPrincipal.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmEntrada.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmLogin.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmMenu.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmPrestamo.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmPrestamoActualizar.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.Properties.Resources.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\Pagadiario.NET.csproj.GenerateResource.Cache
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmClientesEnMora.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmAbonos.resources
+C:\Users\JAH\Google Drive\Proyectos\Pagadiario.NET\Pagadiario.NET\obj\x86\Debug\pagadiario.NET.FrmAbonosPrestamo.resources
